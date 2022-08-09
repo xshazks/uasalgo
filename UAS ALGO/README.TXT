@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+assalamualaikum pa
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+mohon maaf sebelumnya saya mengirim link 2x, dikarenakan yang pertama saya kebingungan untuk mengakses github 
+jadi, pada awal link saya mengirimkannya menggunakan google drive.
+
+tapi, pada saat malam ternyata saya menemukan solusi untuk menggunakan github, oleh karena itu saya mengupload link 2x
+
+sebenarnya isi dalam file tersebut masi sama dan tidak diubah sama sekali. 
+
+hanya saja pada link kedua ini saya menggunakan github. 
+
+terima kasih atas pengertiannya.
